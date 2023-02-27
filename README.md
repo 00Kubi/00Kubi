@@ -1,3 +1,4 @@
+![Kubi dc](https://user-images.githubusercontent.com/80827451/221579655-4631fbf6-1333-4e29-b06a-ad33e6767e49.gif)
 ![banner](https://i.imgur.com/9UHfV6p.gif)
 <h1 align ="center">Hi, I'm Kubi</h1>
 <h3 align = "center"><strong>Silent People with Amazing Skills👩‍💻 </h3>
