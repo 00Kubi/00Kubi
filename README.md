@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/9UHfV6p.gif)
+![banner](https://i.imgur.com/9UHfV6p.)
 <h1 align ="center">Hi, I'm Kubi</h1>
 <h3 align = "center"><strong>Silent People with Amazing Skills👩‍💻 </h3>
   
